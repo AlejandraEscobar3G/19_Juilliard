@@ -1,0 +1,52 @@
+.bck_home{
+	background-image: url("../img/dance_1.jpg");
+	height: 375px;
+	background-size: 100%;
+}
+
+#p1{
+	width: 20%;
+}
+
+#p{
+	width: 50%;
+	margin-left: 25%;
+}
+
+.titulo{
+	font-size: 70px;
+}
+
+.img_icono{
+	width: 15%;
+	height: 15%;
+	margin-left: 42.5%;
+}
+
+#boton2{
+	margin-left: 45%;
+}
+
+.img_instructor{
+	height: 400px;
+	width: 50%;
+	position: absolute;
+	border: 2px solid black;
+}
+
+#mar_img{
+	margin-left: 50%;
+}
+
+#pesp{
+	position: relative;
+	width: 25%;
+	height: 60px;
+	padding-top: 1.5%;
+	font-size: 20px;
+	margin-left: 37.5%;
+	margin-top:340px;
+}
+.p{
+	width: 70%;
+}

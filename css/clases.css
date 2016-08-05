@@ -1,0 +1,58 @@
+.bck_gray{
+	background-color: #C5C5C5;
+	padding-top: 2%;
+}
+#bck_ballet{
+	background-image: url("../img/dance_12.jpg");
+	background-repeat: no-repeat;
+	background-size: 90% 100%;
+	height:400px;
+	padding-top: 35%;
+}
+#bck_break{
+	background-image: url("../img/breakdance.jpg");
+	background-repeat: no-repeat;
+	background-size: 90% 100%;
+	height:400px;
+	padding-top: 35%;
+}
+#bck_jazz{
+	background-image: url("../img/lirical-jazz.jpg");
+	background-repeat: no-repeat;
+	background-size: 90% 100%;
+	height:400px;
+	padding-top: 35%;
+}
+/*.estilo{
+	background-repeat: no-repeat;
+	background-size: 90% 100%;
+	height:400px;
+}
+*/
+h4{
+	margin-bottom: 1%;
+}
+
+#bck_arabia{
+	background-image: url("../img/arabe.jpg");
+	background-repeat: no-repeat;
+	background-size: 90% 100%;
+	height:400px;
+	padding-top: 35%;
+}
+
+#bck_kids{
+	background-image: url("../img/little.jpg");
+	background-repeat: no-repeat;
+	background-size: 90% 100%;
+	height:400px;
+	padding-top: 35%;
+}
+
+#bck_yoga{
+	background-image: url("../img/yoga.jpg");
+	background-repeat: no-repeat;
+	background-size: 90% 100%;
+	height:400px;
+	padding-top: 35%;
+}
